@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="pref_entities">
+        <item>Most Popular</item>
+        <item>Highest Rate</item>
+        <item>Favourite </item>
+
+    </string-array>
+    <string-array name="pref_values">
+        <item>@string/select_1</item>
+        <item>@string/select_2</item>
+        <item>@string/select_3</item>
+    </string-array>
+</resources>

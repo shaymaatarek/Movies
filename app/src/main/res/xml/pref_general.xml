@@ -1,0 +1,18 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <ListPreference
+        android:key="@string/select"
+        android:title="@string/prompt"
+        android:defaultValue="@string/default_choosed"
+        android:entries="@array/pref_entities"
+        android:entryValues="@array/pref_values"
+       />
+
+
+
+</PreferenceScreen>
